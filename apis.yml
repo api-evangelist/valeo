@@ -19,6 +19,12 @@ apis: []
 common:
   - type: Website
     url: https://www.valeo.com/
+  - type: Plans
+    url: plans/valeo-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/valeo-rate-limits.yml
+  - type: FinOps
+    url: finops/valeo-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
