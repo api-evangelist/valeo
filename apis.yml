@@ -1,0 +1,24 @@
+aid: valeo
+url: https://raw.githubusercontent.com/api-evangelist/valeo/refs/heads/main/apis.yml
+name: Valeo
+x-type: company
+description: >-
+  Valeo is a French global Tier 1 automotive supplier headquartered in Paris. Valeo designs and manufactures comfort and driving assistance, powertrain, thermal, and visibility systems for the automotive industry, with a strong focus on electrification and ADAS.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Tier 1 Supplier
+  - ADAS
+  - Powertrain
+  - Thermal
+  - Visibility
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.valeo.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
