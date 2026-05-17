@@ -1,7 +1,7 @@
 aid: valeo
 url: https://raw.githubusercontent.com/api-evangelist/valeo/refs/heads/main/apis.yml
 name: Valeo
-x-type: company
+kind: company
 description: >-
   Valeo is a French global Tier 1 automotive supplier headquartered in Paris. Valeo designs and manufactures comfort and driving assistance, powertrain, thermal, and visibility systems for the automotive industry, with a strong focus on electrification and ADAS.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
