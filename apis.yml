@@ -4,7 +4,7 @@ name: Valeo
 kind: company
 description: >-
   Valeo is a French global Tier 1 automotive supplier headquartered in Paris. Valeo designs and manufactures comfort and driving assistance, powertrain, thermal, and visibility systems for the automotive industry, with a strong focus on electrification and ADAS.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Automotive
   - Tier 1 Supplier
